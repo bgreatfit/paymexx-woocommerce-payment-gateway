@@ -1,10 +1,8 @@
 # Paymexx WooCommerce Payment Gateway
 
-**Contributors:** pearlstack
+**Contributors:** bgreatfit
 
-**Donate link:** https://pearlstack.com/contact-us
-
-**Tags:** woocommerce, payment gateway, payment gateways, mastercard, visa cards, mastercards, interswitch, verve cards, pearlstack plugins, verve, nigeria, paymexx
+**Tags:** woocommerce, payment gateway, payment gateways, mastercard, visa cards, mastercards, interswitch, verve cards, bgreatfit plugins, verve, nigeria, paymexx
 
 **Requires at least:** 4.4
 
@@ -56,12 +54,12 @@ This plugin is meant to be used by merchants in Nigeria.
 
 If you have suggestions or a new feature request, feel free to get in touch with me via the contact form on my website [here](http://bosun.me/get-in-touch/)
 
-You can also follow me on Twitter! **[@pearlstackng](http://twitter.com/pearlstackng)**
+You can also follow me on Twitter! **[@bgreatfit](http://twitter.com/bgreatfit)**
 
 
 
 ### Contribute
-To contribute to this plugin feel free to fork it on GitHub [Paymexx Woocommerce Payment Gateway on GitHub](https://github.com/pearl-stack/paymexx-woocommerce-payment-gateway.php)
+To contribute to this plugin feel free to fork it on GitHub [Paymexx Woocommerce Payment Gateway on GitHub](https://github.com/bgreatfit/paymexx-woocommerce-payment-gateway.php)
 
 
 
